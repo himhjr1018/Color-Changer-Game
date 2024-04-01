@@ -1,0 +1,130 @@
+.container-1 {
+    background-color: rgb(10, 175, 175);
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    gap: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex: 1;
+    flex-basis: 100%;
+
+}
+body {
+    background-color: seagreen;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    gap: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex: 1;
+    flex-basis: 100%;
+
+}
+
+#btn1 {
+   color: black;
+   background-color: white;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+   line-break: normal;
+}
+#btn2 {
+   color: black;
+   background-color: white;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+}
+#btn3 {
+   color: black;
+   background-color: white;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 50px;
+}
+
+.para {
+    text-align: center;
+    font-size: 30px;
+}
+
+#white {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    gap: 10px;
+    flex-wrap: wrap;
+    background-color: white;
+    text-align: center;
+}
+#red {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    gap: 10px;
+    flex-wrap: wrap;
+    background-color: red;
+}
+#green {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    gap: 10px;
+    flex-wrap: wrap;
+    background-color: green;
+}
+#grey {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    gap: 10px;
+    flex-wrap: wrap;
+    background-color: grey;
+    
+
+}
+#purple {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    gap: 10px;
+    flex-wrap: wrap;
+    background-color: purple;
+    
+
+}
